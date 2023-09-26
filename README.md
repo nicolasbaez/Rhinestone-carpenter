@@ -1,5 +1,5 @@
 # Rhinestone-carpenter
-dancing twister
+Dancing twister
 
 ![buh](https://github.com/nicolasbaez/Rhinestone-carpenter/blob/main/xp014.gif)
 ```javascript
